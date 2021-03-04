@@ -4,7 +4,7 @@ https://twitter.com/madnoda/status/1366886071288492034
 
 プログラムは、Ubuntu 18.04上で動作確認したが、おそらく、gcc(g++)とgnuplotがインスールされていれば、どんなLINUXや他のOSでも動作すると思われる
 
-$ make -f tidal_force_011q.mak 
+$ make -f solar_earth_L2_002.mak 
 で、倍精度浮動小数点計算
 
 $ make -f solar_earth_L2_002q.mak 
